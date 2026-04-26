@@ -1,4 +1,3 @@
-## How to Run
 # Classification Evaluation Metrics Playground
 
 ## Overview
